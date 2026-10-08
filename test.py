@@ -10,3 +10,6 @@ def hotfix():
 
 def function_instable():
     return False
+
+def email_service1():
+    return True
