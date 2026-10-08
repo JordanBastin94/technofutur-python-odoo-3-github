@@ -7,3 +7,6 @@ def correction1() :
 
 def hotfix():
     return True
+
+def function_instable():
+    return False
