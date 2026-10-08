@@ -3,3 +3,7 @@ def hello():
 
 def function1():
     return True
+
+def dev_avance() :
+    print("Dev est en train d'avancer...")
+    return False
