@@ -3,3 +3,7 @@ def hello():
 
 def function1():
     return True
+
+def login():
+    print("login en cours")
+    return True
