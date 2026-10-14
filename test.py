@@ -13,3 +13,6 @@ def function_instable():
 
 def email_service1():
     return True
+
+def test_fetch():
+    return True
