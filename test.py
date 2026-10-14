@@ -4,7 +4,6 @@ def test():
 def correction1() :
     return True
 
-
 def hotfix():
     return True
 
